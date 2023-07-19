@@ -7,3 +7,4 @@ The project utilizes a decision tree regression algorithm to train the model. It
 The provided code snippets demonstrate how to fit the decision tree regressor model, make predictions, and calculate evaluation metrics. Additionally, a sample dataset is used to showcase the process of predicting delivery time for a specific case.
 
 This project can be helpful for delivery service providers and logistics companies seeking to optimize their operations and improve delivery time estimations.
+
